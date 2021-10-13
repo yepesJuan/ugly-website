@@ -1,0 +1,36 @@
+.bigText {
+  font-size: 20;
+  color: blue;
+}
+.italics {
+  font-style: italic;
+}
+.btncls {
+  padding: 10px;
+  border-radius: 7px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+.txtcls {
+  padding: 10px;
+  border-radius: 5px;
+}
+.lblcls {
+  font-weight: bold;
+  width: 30%;
+}
+#dv_result {
+  font-size: 24px;
+  font-weight: bold;
+  padding-left: 10px;
+  margin-top: 15px;
+}
+
+#btn_calc:hover {
+  background-color: green;
+}
+
+#btn_clear:hover {
+  background-color: red;
+}
